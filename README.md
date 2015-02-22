@@ -1,2 +1,2 @@
-# basic_distribution
+# basic distribution
 Basic Distributions Plots in Shiny
