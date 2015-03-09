@@ -1,4 +1,4 @@
-# Simple Example in Shiny to Plot different Distributions in R
+# Application in Shiny to Plot Distributions
 
 List of Distributions Available:
 
