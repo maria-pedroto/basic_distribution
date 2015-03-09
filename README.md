@@ -1,6 +1,7 @@
 # Simple Example in Shiny to Plot different Distributions in R
 
 List of Distributions Available:
+
 1) Normal Distribution
 
 2) Uniform Distribution
