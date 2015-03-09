@@ -1,2 +1,3 @@
-# basic distribution plots example
-Basic Distributions Plots in Shiny
+# Simple Example in Shiny to Plot different Distributions in R
+
+
