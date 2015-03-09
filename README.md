@@ -12,3 +12,11 @@ List of Distributions Available:
 
 5) Cauchy Distribution
 
+Plots:
+
+1) Histogram 
+
+2) Boxplot
+
+3) Density 
+
